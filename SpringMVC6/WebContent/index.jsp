@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>Om Namo venkateshaya</p>
+<p>Om Namo venkateshaya, Om  Narayanaya</p>
 </body>
 </html>
